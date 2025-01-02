@@ -1,1 +1,0 @@
-# leonard-gan.github.io
